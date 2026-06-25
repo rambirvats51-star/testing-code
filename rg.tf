@@ -12,7 +12,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "ram-rg-1"
+  name     = "ram-rg-2"
   location = "Central India"
 
   
